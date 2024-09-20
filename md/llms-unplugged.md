@@ -97,8 +97,10 @@ footer: 'Slides by [Mayur](https://www.linkedin.com/in/mayur-gohil-b9858b12a/) a
 ## Coolbots! (Mayur)
 1. Cursor AI (IDE)
 2. ChatGPT assistants
-  -
-
+  - [Integrate Easy](https://chatgpt.com/g/g-vr4IpsqGM-integrateeasy)
+  - [Clean your code](https://chatgpt.com/g/g-29jiCjHfj-make-the-code-clean)
+  - [Chat with your code](https://chatgpt.com/g/g-34wthuFSb-chat-with-code)
+  - [Linkedin Roaster](https://chatgpt.com/g/g-Ll9hk3dPu-social-roaster)
 ---
 
 ## Coolbots! (Hardip)
